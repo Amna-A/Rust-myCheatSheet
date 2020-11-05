@@ -1,2 +1,2 @@
 # MY Rust Cheat Sheet
-a collection of basic syntax for Rust and it's data types
+a collection of basic stuff and how to do it with rust
